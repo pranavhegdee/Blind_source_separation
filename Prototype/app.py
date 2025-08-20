@@ -34,3 +34,4 @@ elif page == "🖼 Image Separation":
     show_icaimage_page()
 elif page == "📈 Applications":
     show_applications_page() 
+
